@@ -1,0 +1,10 @@
+#root {
+    background-color: #3d405b;
+}
+.Item {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
